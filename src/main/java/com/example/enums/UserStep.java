@@ -1,0 +1,7 @@
+package com.example.enums;
+
+public enum UserStep {
+    STUDENT_ID_ASKING, STUDENT_ID_ASKED,
+    STUDENT_PASSWORD_ASKING, STUDENT_PASSWORD_ASKED,
+    STUDENT_FOUND
+}
